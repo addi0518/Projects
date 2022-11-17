@@ -1,0 +1,11 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\Administrator\\Downloads\\tomcat-util-10.1.1.jar",
+    "c:\\Users\\OWNER\\Downloads\\tomcat-juli-10.1.1.jar",
+    "c:\\Users\\OWNER\\Downloads\\tomcat-util-10.1.1.jar"
+  ],
+  "cSpell.words": [
+    "Financeboard"
+  ]
+}
